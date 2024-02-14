@@ -20,7 +20,10 @@
     - 스택 : 한쪽 끝이 막힌 형태 -> 입구가 하나이기 때문에 먼저 들어간 것이 가장 나중에 나오는 구조(선입후출, 후입선출) / Last In First Out(LIFO)
         - pop - list.pop()
         - push - list.append() 와 동일
+    ![stack](https://cs.lmu.edu/~ray/images/stack.gif)
+
     - 큐 : First In First Out(FIFO) -> 입구와 출구가 따로 있는 원통 형태
+    ![queue](https://upload.wikimedia.org/wikipedia/commons/6/6d/QUEUE.png)
         
 
 ## 4일차
