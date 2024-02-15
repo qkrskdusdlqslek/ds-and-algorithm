@@ -24,7 +24,7 @@
     ![stack](https://cs.lmu.edu/~ray/images/stack.gif)
 
     - 큐 : First In First Out(FIFO) -> 입구와 출구가 따로 있는 원통 형태
-    ![queue](https://upload.wikimedia.org/wikipedia/commons/6/6d/QUEUE.png)
+    ![queue](https://raw.githubusercontent.com/qkrskdusdlqslek/ds-and-algorithm/main/images/queue.png)
         
 
 ## 4일차
