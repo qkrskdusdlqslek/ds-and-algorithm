@@ -43,7 +43,7 @@
 
 ## 5일차
 - 파이썬 자료구조 / 알고리즘
-    - 그래프
+    - 그래프 : Depth First Search(DFS)/ Breadth First Search(BFS)
     - 재귀호출
     - 정렬(알고리즘)
     - 검색
