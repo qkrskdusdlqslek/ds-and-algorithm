@@ -57,5 +57,7 @@
         - 버블정렬 Bubble Sort - 기준값 기준으로 제일 큰값을 뒤로 보내는 정렬 O(n^2)
         - 퀵정렬   Quick Sort - 기준값 기준으로 작은값 그룹이랑 큰값 그룹을 분리한 뒤 다시 정렬 재귀호출 O(nlongn) -> 제일 빠름
 
+    ![정렬](https://raw.githubusercontent.com/qkrskdusdlqslek/ds-and-algorithm/main/images/sorting.jpg)
+
 ## 7일차
 - 코딩테스트
